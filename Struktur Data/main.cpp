@@ -1,3 +1,8 @@
+// Nama     : Asep Saeful Rohman
+// NIM      : A11.2021.13705
+// Kelas    : A11.4304
+// Tanggal  : 06/09/2022
+
 #include <iostream>
 
 using namespace std;
