@@ -69,7 +69,7 @@ int main(){
     cout << " ================== Daftar menu ==================" << endl;
     cout << " 1. Cetak Dinus sebanyak n kali" << endl;
     cout << " 2. Hitung Segitiga Sama Kaki" << endl;
-    cout << " 3. Penentuan Pemenang keluarga Upin Ipin" << endl;
+    cout << " 3. Penentuan Pemenang Upin & Ipin" << endl;
     cout << " 4. Deret Bilangan Angka N, M yang bisa dibagi 5" << endl;
     cout << " 5. Biaya Angsuran" << endl;
     cout << " Pilih menu : ";
