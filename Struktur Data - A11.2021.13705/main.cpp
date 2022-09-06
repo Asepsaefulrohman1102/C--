@@ -62,7 +62,7 @@ void deretBilangan(int a, int b )
 
 void angsuran(int a, int b){
     int total = (b/(a/10)) * 10;
-    cout <<"harga asli : " <<  total << endl;
+    cout <<" Harga Asli : " <<  total << endl;
 }
 
 int main(){
