@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1663584158 source:e:\c++\19 september 2022\titik.cpp
+	"titik.hpp"
+
+1663584124 e:\c++\19 september 2022\titik.hpp
+	<iostream>
+
+1663584175 source:e:\c++\19 september 2022\main.cpp
+	"titik.hpp"
+
